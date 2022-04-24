@@ -121,10 +121,11 @@ body {
   letter-spacing: 0.05em;
   color: #5A98D0;
   text-decoration: none;
+
 }
 
-.card__link::after {
-  content: url("img/row.svg");
+.link {
+  display: flex;
 }
 
 .heading {
