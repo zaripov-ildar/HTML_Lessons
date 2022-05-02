@@ -39,7 +39,7 @@ body {
   display: flex;
   justify-content: space-between;
   list-style-type: none;
-  padding-top: 42px;
+  padding: 42px 20px;
 }
 
 .paragraph {
@@ -211,7 +211,6 @@ body {
   line-height: 46px;
   letter-spacing: 0.05em;
   color: #ffffff;
-  width: 340.96px;
 }
 
 .footer__text {
@@ -410,7 +409,7 @@ hr {
   }
 
   .header {
-    padding-top: 24px;
+    padding: 24px 20px;
   }
 
   .top__info {
