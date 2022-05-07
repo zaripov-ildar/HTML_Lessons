@@ -180,6 +180,7 @@ body {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  padding-top: 28px;
 }
 
 .heading {
@@ -686,7 +687,7 @@ hr {
 }
 
 .map {
-  padding: 100px 10%;
+  padding: 100px 0px;
   height: 480px;
 }
 /*# sourceMappingURL=style.css.map */
